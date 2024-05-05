@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    font-size: 15px;
+}
+p{
+    font-size: 1.5rem;
+    margin-top: 2.5rem;
+    padding-left: none;
+}
+#img{
+    margin: 3rem;
+    width: 30px;
+    height: 30px;
+}
+.a{
+    display:flex;
+    position: relative;
+}
+#b{
+    left: 5.3rem;
+    position: absolute;
+    margin-top: 3rem;
+}
+.c{
+    display: flex; 
+    margin-left: 2rem; 
+    margin-top: 0.6rem; 
+}
+.d{
+    margin-left: 20px;
+}
+nav{
+    display: flex;
+}
+.second{
+    display: flex;
+    margin-top: -4rem;
+    margin-left: 5rem;
+}
+.third{
+    margin-left: 4rem;
+    margin-top: 2rem;
+    float: left;
+    width:25rem;
+    height: 17rem;
+    display: flex;
+}
+.part1{
+    
+    height: auto;
+}
+.vv{
+    position: absolute;
+    top: 20rem;
+    left:3rem;
+}

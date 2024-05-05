@@ -1,0 +1,271 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    display: inline-block;
+    margin-left: 25px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+.menu{
+    display: flex;
+    position: absolute;
+    top: 10px;
+    margin-left:10vw;
+    
+}
+.ul{
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#button{
+    width: 80px;
+    height: 30px;
+    background-color: aquamarine;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-left: 90px;
+    margin-top: 10px;
+    background-color: rgb(216, 218, 219);
+    cursor: pointer;
+}
+.text{
+    width: 33vw;
+    height: 60vh;
+    
+    margin-top: 120px;
+    
+
+    
+}
+#button1{
+    width: 100px;
+    height: 30px;
+    background-color: aquamarine;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-left: 90px;
+    margin-top: 10px;
+    background-color: rgb(15, 45, 59);
+    cursor: pointer;
+}
+.but{
+    display: flex;
+    margin-left: -90px;
+}
+.container{
+    display: flex;
+    position: absolute;
+    top:100px;
+    left:100px;
+    
+}
+.second{
+    width: 100%;
+    height:180vh;
+    background-color: rgba(235, 240, 240,0.4);
+    padding-top: 40px;
+    position: relative;
+    
+    
+}
+.heading{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.para{
+    width: 30%;
+    height: 20vh;
+    
+}
+.para1{
+    width: 30%;
+    height: 20vh;
+    margin-left: 40px;
+
+}
+.paragraph{
+    display:flex;
+    margin-left: 70px;
+}
+#button4{
+    width: 200px;
+    height: 30px;
+    background-color: aquamarine;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: rgb(15, 45, 59);
+    cursor: pointer;
+}
+#mix{
+    width:100%;
+    position: relative;
+  
+    
+}
+.third{
+    width: 100%;
+    height:700px;
+    background-color: rgb(16, 36, 66);
+    position: absolute;
+    top: 2100px;
+    display: flex;
+    
+    
+}
+.ss{
+    height: 1750px;
+    width: 100%;
+   
+}
+.third1{
+    height: 500px;
+    width: 50%;
+    margin-top: 130px;
+    margin-left: 100px;
+    
+}
+#button5{
+    width: 160px;
+    height: 30px;
+    background-color: aquamarine;
+    border-radius: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: rgb(15, 45, 59);
+    cursor: pointer;
+}
+.third2{
+    display: flex;
+    justify-content: space-between;
+}
+.thirdimg{
+    width: 60%;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 130px;
+     
+
+}
+#aaa{
+    margin-left: 10px;
+   
+}
+#aab{
+    margin-left: 55px;
+    margin-top: -90px;
+}
+.four{
+    background-color:white;
+    width: 100%;
+    height: 700px;
+}
+.fourfirst{
+    width: 85%;
+    height: auto;
+    display: flex;
+    margin-left: 130px;
+}
+.fourhead{
+    padding: 130px;
+}
+.five{
+    width: 100%;
+    height:700px;
+    background-color: rgb(16, 36, 66);
+
+}
+.fivefirst{
+    height: 300px;
+    width: 300px;
+    padding: 150px;
+}
+.fivetwo{
+    display: flex;
+    margin-top: -180px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+#q{
+    margin-left: 10px;
+    color: white;
+}
+#w{
+    opacity: 0.6;
+}
+.six{
+    width: 100%;
+    height: 450px;
+}
+.sixfirst{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.sixmain{
+    padding: 50px;
+}
+#kk{
+    position: relative;
+    top: -60px;
+    left: 55px;
+}
+.seven{
+    width: 100%;
+    height:700px;
+    background-color: rgba(235, 240, 240,0.4);
+}
+#ll{
+    position:relative;
+    top: -140px;
+    transform: rotate(180deg);
+}
+.sevenfirst{
+    display: flex;
+    justify-content: space-between;
+}
+.end{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+#kkk{
+    margin-left: 150px;
+    color: rgba(7, 7, 7,0.5);
+    
+
+    
+    
+}
+#mmm{
+    color: rgba(7, 7, 7,0.5);
+    
+
+}

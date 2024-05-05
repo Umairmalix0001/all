@@ -1,0 +1,54 @@
+*{
+margin: 0px;
+padding: 0;
+
+
+
+}
+#talha{
+height: 30vh;
+background-color: rgb(29, 28, 28);
+color: white;
+font-size: 30px;
+padding-left: 250px;
+padding-top: 70px;
+}
+.umair{
+
+   border-radius: 50%;
+   font-size: 15px;
+   color: rgb(82, 80, 80);
+}
+
+sup{
+
+    font-size: 15px;
+    color: rgb(82, 80, 80);
+}
+.ali{
+
+   border-radius: 100%;
+    font-size: 15px;
+    color: rgb(82, 80, 80);
+    margin-left: 5px;
+}
+.abdullah{
+
+    border-radius: 100%;
+    font-size: 15px;
+    color: rgb(82, 80, 80);
+    margin-left: 5px;
+}
+#malik{
+
+padding-top: 30px;
+
+}
+#aa{
+margin-left: 250px;
+
+}
+#bb{
+
+    margin-left: 250px;
+}
